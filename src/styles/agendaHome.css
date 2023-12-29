@@ -1,0 +1,89 @@
+body {
+    margin: 0;
+    background: rgb(80, 185, 255);
+}
+
+.addNewContact {
+    background-color: rgb(126, 78, 119);
+    color: white;
+}
+
+.listContainer {
+    background-color: rgb(121, 121, 237);
+    border-color: rgb(96, 96, 231);
+    border: solid 3px;
+}
+
+.infoContainer {
+    margin: 35px;
+}
+
+.userImageContainer {
+    justify-content: center;
+    margin: 20px -10px;
+
+}
+
+.fa-pencil {
+    color: rgb(92, 92, 92);
+}
+
+.fa-trash-can {
+    color: rgb(252, 252, 252);
+}
+
+.noContatsMsg {
+    width: 100%;
+    margin: 200px 0px;
+    font-size: 5rem;
+    text-align: center;
+
+}
+
+.avatar {
+    height: 200px;
+    width: 200px;
+    background-color: #bbb;
+    border-radius: 50%;
+    margin-top: 10px;
+
+}
+
+.iconBtn {
+    margin: 100px 20px;
+    cursor: pointer;
+    font-size: large;
+
+}
+
+.iconBtn:hover {
+    color: #45c7fa;
+}
+
+.iconsContainer {
+    margin: 20px;
+    justify-content: center;
+}
+
+.form-control {
+    width: 600px;
+    margin: 0 auto;
+}
+
+.saveButton {
+    background-color: rgb(99, 99, 99);
+}
+
+.buttonFormContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.getBackAnchor {
+    color: #ffffff;
+}
+
+.editModal {
+    width: 450px;
+}

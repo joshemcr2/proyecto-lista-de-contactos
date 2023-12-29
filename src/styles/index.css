@@ -1,0 +1,7 @@
+/* 
+    General Styles
+*/
+body {
+    background: rgb(16, 198, 141);
+    background: linear-gradient(143deg, rgba(16, 198, 141, 1) 0%, rgba(0, 212, 255, 1) 100%);
+}
